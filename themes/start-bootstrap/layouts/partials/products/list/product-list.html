@@ -8,8 +8,10 @@
     <hr class="star-dark mb-5">
     <div class="row">
       {{ range .Data.Pages }} 
-        {{ partial "products/list/product-list-item.html" . }} 
+        {{ partial "products/list/product-list-item.html" . }}
       {{ end }}
     </div>
   </div>
 </section>
+
+{{ partial "products/common/site-main-footer.html" . }}
