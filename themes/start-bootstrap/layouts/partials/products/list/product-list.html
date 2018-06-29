@@ -1,0 +1,15 @@
+{{ partial "products/common/site-main-nav.html" . }} 
+{{ partial "products/common/site-main-header.html" . }}
+
+<!-- Portfolio Grid Section -->
+<section class="portfolio" id="portfolio">
+  <div class="container">
+    <h2 class="text-center text-uppercase text-secondary mb-0">Products</h2>
+    <hr class="star-dark mb-5">
+    <div class="row">
+      {{ range .Data.Pages }} 
+        {{ partial "products/list/product-list-item.html" . }} 
+      {{ end }}
+    </div>
+  </div>
+</section>

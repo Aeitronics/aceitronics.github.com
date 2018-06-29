@@ -1,4 +1,5 @@
 baseURL = "https://aceitronics.com/"
+# baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Aceitronics"
-theme = "hugo-shopping-product-catalogue-simple"
+theme = "start-bootstrap"
