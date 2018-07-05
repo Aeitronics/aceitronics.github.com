@@ -24,25 +24,25 @@
   </url>
   
   <url>
-    <loc>https://aceitronics.com/tags/prod1/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://aceitronics.com/categories/prod1/</loc>
     <lastmod>2018-05-11T22:35:06+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aceitronics.com/tags/prod2/</loc>
+    <loc>https://aceitronics.com/tags/prod1/</loc>
     <lastmod>2018-05-11T22:35:06+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://aceitronics.com/categories/prod2/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aceitronics.com/tags/prod2/</loc>
     <lastmod>2018-05-11T22:35:06+05:30</lastmod>
     <priority>0</priority>
   </url>
