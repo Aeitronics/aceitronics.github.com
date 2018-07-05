@@ -11,11 +11,20 @@
     
     
     <item>
-      <title>Wall Light</title>
-      <link>https://aceitronics.com/categories/wall-light/</link>
+      <title>Prod1</title>
+      <link>https://aceitronics.com/categories/prod1/</link>
       <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
       
-      <guid>https://aceitronics.com/categories/wall-light/</guid>
+      <guid>https://aceitronics.com/categories/prod1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prod2</title>
+      <link>https://aceitronics.com/categories/prod2/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>https://aceitronics.com/categories/prod2/</guid>
       <description></description>
     </item>
     

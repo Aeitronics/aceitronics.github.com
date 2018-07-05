@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aceitronics.com/products/alessa/</loc>
+    <loc>https://aceitronics.com/products/prod1/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aceitronics.com/products/prod2/</loc>
     <lastmod>2018-05-11T22:35:06+05:30</lastmod>
   </url>
   
@@ -14,90 +19,30 @@
   </url>
   
   <url>
-    <loc>https://aceitronics.com/tags/ambience/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/tags/black/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/tags/black-metal/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://aceitronics.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aceitronics.com/tags/contemporary/</loc>
+    <loc>https://aceitronics.com/categories/prod1/</loc>
     <lastmod>2018-05-11T22:35:06+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aceitronics.com/tags/cool/</loc>
+    <loc>https://aceitronics.com/tags/prod1/</loc>
     <lastmod>2018-05-11T22:35:06+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aceitronics.com/tags/cozy/</loc>
+    <loc>https://aceitronics.com/categories/prod2/</loc>
     <lastmod>2018-05-11T22:35:06+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aceitronics.com/tags/edison-bulb/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/tags/filament-bulb/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/tags/glass/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/tags/green/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/tags/indoor/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/tags/light/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/tags/metal/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/tags/modern/</loc>
+    <loc>https://aceitronics.com/tags/prod2/</loc>
     <lastmod>2018-05-11T22:35:06+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -109,43 +54,7 @@
   </url>
   
   <url>
-    <loc>https://aceitronics.com/tags/round/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/tags/rustic/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://aceitronics.com/tags/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/tags/vintage/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/tags/wall-light/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/categories/wall-light/</loc>
-    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aceitronics.com/tags/white/</loc>
     <lastmod>2018-05-11T22:35:06+05:30</lastmod>
     <priority>0</priority>
   </url>
